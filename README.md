@@ -1,6 +1,7 @@
 #### 한글 처리 : [link](./refer/README.md)
 ### refer 
 - [변량(Variance)별 분석 도구(Graph, Plot, Chart)](https://dbrang.tistory.com/1208)
+- [4편. Seaborn 그래프 종류 총 정리(ft. Distribution plots)](https://coding-kindergarten.tistory.com/132)
 #### 시각화
 | 주제 | 주요 항목 | 참조 |
 | --- | --- | :---: |

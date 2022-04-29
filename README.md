@@ -17,5 +17,5 @@
 |matplotlib 기본|한글 처리,axes,tick,legend,markder,figure,savefig,text| |
 |matplotlib more|여러 데이터,막대| |
 |seaborn|barplot()| |
-|networkx|?| |
+|networkx|?, pagerank| |
 

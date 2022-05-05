@@ -1,6 +1,12 @@
 #### 한글 처리 : [link](./refer/README.md)
+### more package
+- Mito : https://www.trymito.io/
+- Plotly : https://plotly.com/
+- Lux(A Python API for Intelligent Visual Discovery) : https://github.com/lux-org/lux
+
 ### need to learn more
 - [Analyze and Visualize URLs with Network Graph](https://towardsdatascience.com/analyze-and-visualize-urls-with-network-graph-ee3ad5338b69)
+
 ### refer 
 - [변량(Variance)별 분석 도구(Graph, Plot, Chart)](https://dbrang.tistory.com/1208)
 - [4편. Seaborn 그래프 종류 총 정리(ft. Distribution plots)](https://coding-kindergarten.tistory.com/132)

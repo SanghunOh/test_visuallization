@@ -21,7 +21,7 @@
 | 주제 | 주요 항목 | 참조 |
 | --- | --- | :---: |
 |matplotlib 기본|한글 처리,axes,tick,legend,markder,figure,savefig,text| |
-|matplotlib more|여러 데이터,막대| |
+|matplotlib more|여러 데이터,막대|[in ipynb](./codes/03_visualization_Matplotlib.ipynb) |
 |subplot|subplot|seaborn.dataset?|
 |subplot|add_axesplot()|[video](sesac_visuallization_subplot_2_.mov)|
 |seaborn|barplot()| |

@@ -3,6 +3,7 @@
 - Mito : https://www.trymito.io/
 - Plotly : https://plotly.com/
 - Lux(A Python API for Intelligent Visual Discovery) : https://github.com/lux-org/lux
+- Bokeh : [ipynb](https://colab.research.google.com/drive/1k1JdZG2VMrNxcW3gku9-C20OO8t6vEZW#scrollTo=w8eaAUE5suk8)
 
 ### need to learn more
 - [Analyze and Visualize URLs with Network Graph](https://towardsdatascience.com/analyze-and-visualize-urls-with-network-graph-ee3ad5338b69)

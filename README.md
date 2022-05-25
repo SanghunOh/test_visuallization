@@ -12,7 +12,7 @@
 - Matplotlib [파이썬 코딩 무료 강의 (활용편5) 2:55:00~end](https://youtu.be/PjhlUzp_cU0)
 
 ## 시각화 사례
-서울시 연간 기온변화 시각화
+- 서울시 연간 기온변화 시각화(from sesac) : 하나 Sample(1950년 대)로 시연 후 전체는 실습
 
 #### 강의 전체 흐름 (사전 필요 : pandas.groupby(), pandas.pivot())
 | 주제 | 주요 항목 | dataset | 작성 | 참조 |

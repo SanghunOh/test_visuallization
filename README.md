@@ -16,6 +16,7 @@
 
 #### 강의 전체 흐름 (사전 필요 : pandas.groupby(), pandas.pivot())
 | 주제 | 주요 항목 | dataset | 작성 | 참조 |
+| :---: | :---: | :---: |:---: |:---: |
 | matplotlib | plot, bar, scatter | :---: |sesac(일부 먼저 작성 seaborn과 비교):seaborn 차트 그리기|sesac:파이썬 데이터 시각화 시작하기, 그래프 스타일링, 데이터의 분포와 비율을 파악하기 위한 그래프, 데이터의 관계를 파악하거나 크기를 비교하기 위한 그래프|
 | seaborn | lineplot, barplot, scatterplot, countplot | :---: |:---: |sesac:seaborn 차트 그리기 |
 | matplotlib | subplot, add_axesplot | :---: |:---: |sesac:서브플롯 그리기 |

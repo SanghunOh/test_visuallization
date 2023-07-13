@@ -1,4 +1,19 @@
-#### 한글 처리 : [link](./refer/README.md)
+#### matplotlib OS별 한글 처리
+```
+from matplotlib import font_manager, rc
+import platform
+
+if platform.system() == 'Windows':  # Windows
+    font_name = font_manager.FontProperties(fname='C:/Windows/Fonts/malgun.ttf').get_name()
+    rc('font', family=font_name)
+else :  # MAC
+    rc('font', family='AppleGothic')
+```
+#### matplotlib '-' 기호 표시
+```
+from matplotlib import rcParams
+rcParams['axes.unicode_minus'] = False
+```
 + [데이터사이언스 스쿨-url](https://datascienceschool.net/01%20python/05.00%205%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94.html)
 ### more package visuallization
 - Mito : https://www.trymito.io/

@@ -1,4 +1,4 @@
-- [학습 순서](./codes/README.md)
+- [학습 순서_2024](./codes/README.md)
 ### 시각화 사례
 - 서울시 연간 기온변화 시각화(from sesac) : 하나 Sample(1950년 대)로 시연 후 전체는 실습
 
